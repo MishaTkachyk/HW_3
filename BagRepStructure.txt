@@ -1,0 +1,8 @@
+-ID
+-title
+-Environment
+-Expected_result
+-Actual_result
+-Steps_to_reproduce
+-Severity
+-Priority
